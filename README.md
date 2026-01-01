@@ -29,15 +29,25 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamufura&show_icons=true&theme=tokyonight)
+<a href="https://github.com/adamufura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamufura&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" alt="GitHub Stats" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=adamufura&theme=tokyonight)
+<a href="https://github.com/adamufura">
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=adamufura&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamufura&layout=compact&theme=tokyonight&langs_count=8)
+<a href="https://github.com/adamufura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamufura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</a>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adamufura&theme=tokyonight&column=4)
+<a href="https://github.com/adamufura">
+  <img src="https://github-profile-trophy.vercel.app/?username=adamufura&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 </div>
+
+> **Note:** If stats don't appear, it may be due to rate limiting on the public instance. The images will load once the README is deployed to your GitHub profile repository. You can also [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) for better reliability.
 
 ---
 
