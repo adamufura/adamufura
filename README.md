@@ -29,13 +29,21 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamufura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff)
+<a href="https://github.com/adamufura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamufura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" alt="GitHub Stats" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=adamufura&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB)
+<a href="https://github.com/adamufura">
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=adamufura&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamufura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff&langs_count=8)
+<a href="https://github.com/adamufura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamufura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</a>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adamufura&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+<a href="https://github.com/adamufura">
+  <img src="https://github-profile-trophy.vercel.app/?username=adamufura&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 </div>
 
