@@ -44,6 +44,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 ## 🛠️ Tech Stack & Skills
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -53,6 +54,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,20 +64,24 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Mobile Development
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Desktop Development
+
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -90,60 +96,6 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 - ✅ **Mobile Applications** - Cross-platform development with Flutter & React Native
 - ✅ **Desktop Applications** - Electron.js & Tauri.js
 - ✅ **Scalable Architecture** - Building robust and maintainable systems
-
----
-
-## 🚀 Featured Projects
-
-### [Otobill](https://otobill.com/)
-A trusted digital utility payment platform enabling users to recharge airtime, buy data, pay electricity bills, and renew TV subscriptions with instant processing and bank-grade security.
-
-**Tech Stack:** Node.js, Express, TypeScript, MongoDB, Payment Integration
-
-### [Distinction](https://distinction.app/)
-An AI-powered learning platform that helps learners master any subject with interactive tools, gamified learning, and course creation capabilities for educators worldwide.
-
-**Tech Stack:** Java, Spring Boot, PostgreSQL, REST API
-
-### [Property Glide](https://www.propertyglide.com/)
-An Airbnb-style property discovery platform that simplifies home hunting with smart search filters, location insights, instant alerts, and seamless connections between property seekers and owners.
-
-**Tech Stack:** React Native, Expo, Laravel, REST API
-
-### [Dono Health](https://github.com/adamufura)
-A healthcare platform providing access to health insurance and financial services for vulnerable populations. Created for the Financial Services Innovators (FSI) Competition.
-
-**Tech Stack:** Flutter, Dart, Firebase, REST API
-
----
-
-## 💼 Professional Experience
-
-### Backend Developer @ FLEXISAF
-**April 2024 – December 2025** | Abuja, Nigeria
-
-- Developed and maintained backend services using Java Spring Boot
-- Collaborated with cross-functional teams to deliver scalable software solutions
-- Worked with PostgreSQL, REST APIs, Flyway, and Looker Studio
-- Contributed to production-level codebases
-
-**Technologies:** Java, Spring Boot, PostgreSQL, REST API, Flyway, Looker Studio
-
----
-
-## 🤖 AI-Powered Development
-
-I actively leverage AI tools to enhance my development workflow, accelerate problem-solving, and stay at the forefront of modern software engineering practices. These tools help me:
-
-- 🧠 **Code Generation & Refactoring** - Streamline development with intelligent code suggestions
-- 🔍 **Problem Solving** - Quickly find solutions to complex technical challenges
-- 📚 **Learning & Research** - Stay updated with the latest technologies and best practices
-- ⚡ **Productivity Enhancement** - Automate repetitive tasks and focus on creative problem-solving
-
-**Tools I Use:**
-- ChatGPT - For code assistance, debugging, and learning
-- Claude AI - For complex problem-solving and architecture discussions
-- Cursor IDE - For AI-powered code editing and intelligent autocomplete
 
 ---
 
@@ -167,15 +119,6 @@ I actively leverage AI tools to enhance my development workflow, accelerate prob
 
 ---
 
-## 💡 Fun Facts
-
-- 🎓 Passionate about teaching and sharing knowledge
-- 🌱 Always learning and adapting to new technologies
-- 🎯 Goal-driven with a strong background in effective management
-- ⚡ Technology enthusiast with ambition and drive for success
-
----
-
 <div align="center">
 
 ### ⚡ "Turning complex problems into simple, efficient solutions"
@@ -188,4 +131,3 @@ I actively leverage AI tools to enhance my development workflow, accelerate prob
 [![GitHub stars](https://img.shields.io/github/stars/adamufura?style=social)](https://github.com/adamufura)
 
 </div>
-
