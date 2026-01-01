@@ -1,13 +1,23 @@
 <div align="center">
 
-# 👋 Hi there, I'm Adams Pro!
+# 👋 Hi there, I'm <b>Adams Pro</b>!
 
-### 🚀 Full-Stack Software Engineer | Building Scalable Applications
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=61DAFB&size=25&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Software+Engineer;Building+Scalable+Applications;Turning+Ideas+Into+Reality+💻" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-adamspro.dev-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://adamspro.dev)
-[![Email](https://img.shields.io/badge/Email-hi@adamspro.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@adamspro.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adamu%20Fura%20Suleiman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamu-fura-suleiman-675314143)
-[![Twitter](https://img.shields.io/badge/Twitter-@adamu__fura-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adamu_fura)
+<br/>
+
+<div align="center">
+  
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-adamspro.dev-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)](https://adamspro.dev)
+[![Email](https://img.shields.io/badge/📧_Email-hi@adamspro.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:hi@adamspro.dev)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Adamu%20Fura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/adamu-fura-suleiman-675314143)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@adamu__fura-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/adamu_fura)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=65&section=header"/>
 
 </div>
 
