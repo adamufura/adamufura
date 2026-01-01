@@ -29,13 +29,11 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamufura&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamufura&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=adamufura&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=adamufura&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamufura&layout=compact&theme=tokyonight&langs_count=8)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adamufura&theme=tokyonight&column=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamufura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -103,7 +101,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adamufura&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=61DAFB)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adamufura&theme=tokyo-night&hide_border=true)
 
 </div>
 
