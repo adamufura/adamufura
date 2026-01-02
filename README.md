@@ -88,9 +88,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adamufura&theme=tokyonight" alt="Profile Details" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adamufura&theme=tokyonight" alt="GitHub Stats" width="32%" />
-  <img src="https://streak-stats.demolab.com/?user=adamufura&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=adamufura&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="75%" />
 </div>
 
 ---
