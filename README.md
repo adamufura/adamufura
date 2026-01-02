@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, I'm <b>Adams Pro</b>!
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm **Adams Pro**!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=61DAFB&size=25&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Software+Engineer;Building+Scalable+Applications;Turning+Ideas+Into+Reality+💻" alt="Typing SVG" />
-
-<br/>
+<h3>🚀 Full-Stack Software Engineer | Building Scalable Applications</h3>
 
 <div align="center">
   
@@ -15,23 +13,27 @@
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=65&section=header"/>
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
+<div align="justify">
+
 I'm a **Full-Stack Software Engineer** with a passion for building scalable web, mobile, and desktop applications. I specialize in modern technologies like React, Next.js, Node.js, NestJS, Flutter, and Spring Boot. I enjoy turning complex problems into simple, efficient solutions and am always eager to learn and adapt to new technologies.
+
+</div>
+
+<div align="left">
 
 - 🔭 Currently working on building scalable backend systems and modern web applications
 - 🌱 Continuously learning and exploring new technologies and best practices
 - 💡 Passionate about leveraging AI tools to enhance development workflow
 - 🎯 Goal-driven with a strong background in effective management
 - 📚 Dedicated to teaching and continuous learning
+
+</div>
 
 ---
 
@@ -95,11 +97,15 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 
 ## 🎯 Specializations
 
+<div align="left">
+
 - ✅ **Full-Stack Web Development** - MERN Stack (MongoDB, Express, React, Node.js)
 - ✅ **Backend Systems** - RESTful APIs, Microservices, Database Design
 - ✅ **Mobile Applications** - Cross-platform development with Flutter & React Native
 - ✅ **Desktop Applications** - Electron.js & Tauri.js
 - ✅ **Scalable Architecture** - Building robust and maintainable systems
+
+</div>
 
 ---
 
@@ -115,8 +121,20 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable web,
 
 ## 📫 Get In Touch
 
+<div align="left">
+
 - 🌐 **Portfolio:** [adamspro.dev](https://adamspro.dev)
 - 📧 **Email:** [hi@adamspro.dev](mailto:hi@adamspro.dev)
 - 💼 **LinkedIn:** [Adamu Fura Suleiman](https://linkedin.com/in/adamu-fura-suleiman-675314143)
 - 🐦 **Twitter:** [@adamu_fura](https://twitter.com/adamu_fura)
 - 📱 **Phone:** +2348166644083
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Turning complex problems into simple, efficient solutions"
+
+</div>
